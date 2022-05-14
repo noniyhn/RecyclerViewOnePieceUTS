@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewOnePieceUTS</string>
+    <string name="karakterop_name">Nama KarakterOP</string>
+    <string name="description">Deskripsi</string>
+</resources>
